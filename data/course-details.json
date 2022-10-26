@@ -2,10 +2,6 @@
     {
         "special_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "id": "01",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "course-title": "Advanced C programming",
         "rating": {
             "number": 4.5,
@@ -47,10 +43,6 @@
     {
         "special_id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "id": "02",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "course-title": "Java programming for beginners",
         "rating": {
             "number": 4.7,
@@ -92,10 +84,6 @@
     {
         "special_id": "f69a695f037cd9484cecaea37ca71011",
         "id": "03",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "course-title": "Advanced Python programming",
         "rating": {
             "number": 4.0,
@@ -135,10 +123,6 @@
     {
         "special_id": "f69a695f037cd9484cecaea37ca71012",
         "id": "04",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "course-title": "C++ programming Language",
         "rating": {
             "number": 4.0,
@@ -178,10 +162,6 @@
     {
         "special_id": "11468ed61aee84de492a8b04158a22f9",
         "id": "05",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": false
-        },
         "course-title": "Advanced PHP Tutorial",
         "rating": {
             "number": 4.2,
@@ -223,10 +203,6 @@
     {
         "special_id": "11468ed61aee84de492a8b04158a22f0",
         "id": "06",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": false
-        },
         "course-title": "C# (C-Sharp) programming language for beginners ",
         "rating": {
             "number": 4.0,
