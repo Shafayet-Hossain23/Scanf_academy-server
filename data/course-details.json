@@ -2,28 +2,28 @@
     {
         "special_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "id": "01",
-        "course-title": "Advanced C programming",
+        "courseTitle": "Advanced C programming",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
-        "course-info": {
+        "courseInfo": {
             "duration": "20 hours",
-            "total-lecture": "30",
+            "totalLecture": "30",
             "quiz": "30",
             "assignment": "10",
             "language": "Bangla",
-            "total-videos": "40"
+            "totalVideos": "40"
         },
-        "total-enroll": 488,
+        "totalEnroll": 488,
         "trainer": {
             "name": "Zunayed Hossain",
             "institute": "Scan_f Academy",
-            "total-stuff": "10"
+            "totalStuff": "10"
         },
         "image_url": "https://cka.collectiva.in/Content/images/CourseImages/9.png",
         "details": "C is one of the most important of all programming languages. It is used to program desktop applications, compilers, tools and utilities and even hardware devices. The C language is fast and efficient – but it can be hard to learn. Unless you use this course. This course begins with a gentle introduction to C but quickly moves on to explain some of its most confusing features: everything from C's 'scoping' rules to the curious connection between arrays and memory addresses. By the end of the course you will have a deep understanding both of the C language itself and also of the underlying 'architecture' of your computer.",
-        "course-content": [
+        "courseContent": [
             "Page Index",
             "C Introduction",
             "C Flow Control",
@@ -43,28 +43,28 @@
     {
         "special_id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "id": "02",
-        "course-title": "Java programming for beginners",
+        "courseTitle": "Java for beginners",
         "rating": {
             "number": 4.7,
             "badge": "Excellent"
         },
-        "course-info": {
+        "courseInfo": {
             "duration": "30 hours",
-            "total-lecture": "60",
+            "totalLecture": "60",
             "quiz": "60",
             "assignment": "20",
             "language": "Bangla",
-            "total-videos": "65"
+            "totalVideos": "65"
         },
-        "total-enroll": 890,
+        "totalEnroll": 890,
         "trainer": {
             "name": "Mominul Islam",
             "institute": "Scan_f Academy",
-            "total-stuff": "15"
+            "totalStuff": "15"
         },
         "image_url": "https://www.vinsys.com/blog/wp-content/uploads/2022/01/Java-Programming-Training-For-Beginners.jpg",
         "details": "Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. This Course is the first of a series of courses that make up the Core Java Specialization. The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments. This course includes hands-on practice and will give you a solid knowledge of the Java language. After completing this course, you will be able to identify Java’s benefits, program in basic Java syntax using Java data types, and incorporate branches and loops. The audience for this course: - Anyone interested in learning Java - Programmers - Technical Managers - Application Developers Prerequisites: To be successful with this course, you should understand the fundamentals of software development in either a procedural or object-oriented language.",
-        "course-content": [
+        "courseContent": [
             "Learn Java Interactively",
             "Java Introduction",
             "Java Flow Control",
@@ -84,28 +84,28 @@
     {
         "special_id": "f69a695f037cd9484cecaea37ca71011",
         "id": "03",
-        "course-title": "Advanced Python programming",
+        "courseTitle": "Python machine learning",
         "rating": {
-            "number": 4.0,
+            "number": 4.6,
             "badge": "Excellent"
         },
-        "course-info": {
+        "courseInfo": {
             "duration": "40 hours",
-            "total-lecture": "80",
+            "totalLecture": "80",
             "quiz": "80",
             "assignment": "25",
             "language": "Bangla",
-            "total-videos": "90"
+            "totalVideos": "90"
         },
-        "total-enroll": 1088,
+        "totalEnroll": 1088,
         "trainer": {
             "name": "Mamunur-Rashid",
             "institute": "Scan_f Academy",
-            "total-stuff": "18"
+            "totalStuff": "18"
         },
         "image_url": "https://www.digitalnest.in/blog/wp-content/uploads/2019/07/10-Benefits-of-Learning-Python-Programming-Language-and-Its-Use-Cases.png",
         "details": "In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. You’ll also get hands-on with objects, classes and methods in Python, and utilize variables, data types, control flow and loops, functions and data structures. You’ll learn how to recognize and handle errors and you’ll write unit tests for your Python code and practice test-driven development. This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. ",
-        "course-content": [
+        "courseContent": [
             "Introduction",
             "Flow Control",
             "Function",
@@ -123,28 +123,28 @@
     {
         "special_id": "f69a695f037cd9484cecaea37ca71012",
         "id": "04",
-        "course-title": "C++ programming Language",
+        "courseTitle": "Learn advanced C++ ",
         "rating": {
-            "number": 4.0,
+            "number": 4.5,
             "badge": "Excellent"
         },
-        "course-info": {
+        "courseInfo": {
             "duration": "15 hours",
-            "total-lecture": "25",
+            "totalLecture": "25",
             "quiz": "15",
             "assignment": "8",
             "language": "Bangla",
-            "total-videos": "25"
+            "totalVideos": "25"
         },
-        "total-enroll": 1488,
+        "totalEnroll": 1488,
         "trainer": {
             "name": "Shakowat Hossain",
             "institute": "Scan_f Academy",
-            "total-stuff": "5"
+            "totalStuff": "5"
         },
         "image_url": "https://w10.naukri.com/mailers/2021/naukri-learning/dec/17dec/What-is-Cplusplus.jpg",
         "details": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.This Specialization is intended for intermediate programmers who want to learn how to program Unreal Engine games using C++. Learners should complete at least one other programming Specialization on or one programming course in high school or college before starting this Specialization. The first course assumes that level of programming experience, and throughout the 4 courses in the Specialization you'll learn how to program in C++ and how to use that C++ knowledge to program Unreal Engine games. The C++ and Unreal material in the courses in the Specialization is slightly less comprehensive than the content in the first two game programming courses at UCCS.",
-        "course-content": [
+        "courseContent": [
             "C++ Introduction",
             "C++ Flow Control",
             "C++ Functions",
@@ -162,28 +162,28 @@
     {
         "special_id": "11468ed61aee84de492a8b04158a22f9",
         "id": "05",
-        "course-title": "Advanced PHP Tutorial",
+        "courseTitle": "PHP for beginners",
         "rating": {
             "number": 4.2,
             "badge": "Excellent"
         },
-        "course-info": {
+        "courseInfo": {
             "duration": "35 hours",
-            "total-lecture": "50",
+            "totalLecture": "50",
             "quiz": "50",
             "assignment": "18",
             "language": "Bangla",
-            "total-videos": "50"
+            "totalVideos": "50"
         },
-        "total-enroll": 488,
+        "totalEnroll": 488,
         "trainer": {
-            "name": "Dev. Rohan Haque",
+            "name": "Dr. Rohan Haque",
             "institute": "Scan_f Academy",
-            "total-stuff": "12"
+            "totalStuff": "12"
         },
-        "image_url": "https://miro.medium.com/max/1141/1*2jIISaSgPOHNbXDqo8hK5Q.jpeg",
+        "image_url": "https://d1lf7jq9a5epx3.cloudfront.net/wp-content/uploads/sites/5/2021/09/ultrafast_blog_1200x600.jpeg",
         "details": "It stands for hypertext pre-processor. It is a server-side scripting language used to develop dynamic and static websites. PHP is a widely-used programming language and can be embedded into HTML. It is an excellent programming language for someone interested in learning web development. It is easier to manage as HTML can be longer with lots of commands, whereas PHP pages include HTML embedded code. For someone having a basic understanding of HTML, PHP is quite easy to learn. Read here about PHP courses, PHP certifications, PHP syllabus, scope in PHP, and other related details.Over the years, PHP professionals' demand has grown. Now big companies recruit professionals for their PHP projects. In addition to PHP, knowledge of frameworks like Nette, Zend, Symfony2, Laravel and others add more value to the resume. If one knows PHP, they are not limited to only job options, but they can also provide their own PHP-based services by working as a full-time freelancer.",
-        "course-content": [
+        "courseContent": [
             "Introduction of PHP and web designing basics",
             "Basic PHP Development",
             "Handling HTML form with PHP",
@@ -203,28 +203,28 @@
     {
         "special_id": "11468ed61aee84de492a8b04158a22f0",
         "id": "06",
-        "course-title": "C# (C-Sharp) programming language for beginners ",
+        "courseTitle": "C# (C-Sharp) tutorial ",
         "rating": {
-            "number": 4.0,
+            "number": 4.8,
             "badge": "Excellent"
         },
-        "course-info": {
+        "courseInfo": {
             "duration": "23 hours",
-            "total-lecture": "33",
+            "totalLecture": "33",
             "quiz": "33",
             "assignment": "13",
             "language": "Bangla",
-            "total-videos": "33"
+            "totalVideos": "33"
         },
-        "total-enroll": 1688,
+        "totalEnroll": 1688,
         "trainer": {
             "name": "Habibur Rahman",
             "institute": "Scan_f Academy",
-            "total-stuff": "10"
+            "totalStuff": "10"
         },
         "image_url": "https://edraak-marketing-uploads.edraak.org/Courses/sa.png",
         "details": "The C# programming language offers flexible and comprehensive libraries that make it easy to work across operating systems. That’s why it’s widely used by companies like Microsoft and Stack Overflow. Whether you want to develop websites, apps, video games, or virtual reality, building your foundation is key. In this course, you’ll learn C# basics so you can become a more versatile programmer.The course goes in order building up from basic to intermediate and then to advanced.Most sections of the course have a quiz at the end, then a video explaining the answers to the quiz questions, and have several interview questions with detailed answers that relate to that section. That means as you learn the material you will be mastering crucial interview questions based on the subject matter you are learnin",
-        "course-content": [
+        "courseContent": [
             "Introduction",
             "Flow Control",
             "Arrays",
