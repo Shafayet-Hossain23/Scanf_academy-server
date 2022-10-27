@@ -15,13 +15,13 @@ app.get('/course-name', (req, res) => {
 })
 app.get('/details/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id)
+    // console.log(id)
     const selectedCourse = courseDetails.find(c => c.id === id);
     res.send(selectedCourse)
 })
 app.get('/details/premium/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id)
+    // console.log(id)
     const selectedCourse = courseDetails.find(c => c.id === id);
     res.send(selectedCourse)
 })
